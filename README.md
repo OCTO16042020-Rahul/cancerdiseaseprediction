@@ -1,0 +1,1 @@
+This project aims to implement a self-learning protocol such that the past inputs of the disease outcomes determine the future possibilities of the Cancer to a particular use. In that used algo are ANN,CNN,naïve bayes and calculate Acuurecy according the dataset.
